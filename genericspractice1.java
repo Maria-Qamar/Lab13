@@ -16,11 +16,6 @@ public class genericspractice1 {
     	 obj.showArray(names);
 
     	 
-    	 Integer num[]= {2,4,6,8};
-    	 obj.showArray(num);
-    	 System.out.println("-------------");
-    	Double D[]= {1.0,4.9,3.0,6.7};
-    	 obj.showArray(D); 
-    	 }
+    	
 }
 
